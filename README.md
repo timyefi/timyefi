@@ -1,4 +1,4 @@
-<a href="https://timyefi.github.io/"><picture><source media="(min-width: 660px)" srcset="https://timyefi.github.io/assets/hero-wide.svg?v=ea9d88c3"><img src="https://timyefi.github.io/assets/hero-tall.svg?v=76fc2cf5" width="100%" alt="研究工程笔记 · 把研究能力做成能跑的工程件"></picture></a>
+<a href="https://timyefi.github.io/"><picture><source media="(min-width: 660px)" srcset="https://timyefi.github.io/assets/hero-wide.svg?v=b645ac01"><img src="https://timyefi.github.io/assets/hero-tall.svg?v=026e94a0" width="100%" alt="研究工程笔记 · 把研究能力做成能跑的工程件"></picture></a>
 
 > <sub>研究工程 · AI 工作流 · 本机优先　|　文章在 [写作站](https://timyefi.github.io/)　|　随笔在 [blog](https://github.com/timyefi/blog)</sub>
 
