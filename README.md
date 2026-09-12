@@ -1,6 +1,12 @@
 <a href="https://timyefi.github.io/"><picture><source media="(min-width: 660px)" srcset="https://timyefi.github.io/assets/hero-wide.svg?v=b645ac01"><img src="https://timyefi.github.io/assets/hero-tall.svg?v=026e94a0" width="100%" alt="研究工程笔记 · 把研究能力做成能跑的工程件"></picture></a>
 
-> <sub>研究工程 · AI 工作流 · 本机优先　|　文章在 [写作站](https://timyefi.github.io/)　|　随笔在 [blog](https://github.com/timyefi/blog)</sub>
+> <sub>研究工程 · AI 工作流 · 本机优先　|　文章在 [写作站](https://timyefi.github.io/)　|　订阅 [RSS](https://timyefi.github.io/feed.xml)　|　随笔在 [blog](https://github.com/timyefi/blog)</sub>
+
+### 最新文章
+
+- [这不是答案](https://timyefi.github.io/posts/this-is-not-the-answer.html)　<sub>2026-09-10 · 理念与方法论</sub>
+
+　<sub>[全部文章 →](https://timyefi.github.io/)　·　[关于这个站点](https://timyefi.github.io/about.html)</sub>
 
 把研究里那些只存在于经验中的东西，一件件拆成可以复述、可以核对、可以重组的零件，让它们跑在自己的机器上。
 
