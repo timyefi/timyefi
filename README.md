@@ -1,12 +1,12 @@
-<a href="https://timyefi.github.io/"><picture><source media="(min-width: 660px)" srcset="https://timyefi.github.io/assets/hero-wide.svg?v=e854574c"><img src="https://timyefi.github.io/assets/hero-tall.svg?v=40ac0e03" width="100%" alt="研究工程笔记 · 把研究能力做成能跑的工程件"></picture></a>
+<a href="https://timyefi.github.io/"><picture><source media="(min-width: 660px)" srcset="https://timyefi.github.io/assets/hero-wide.svg?v=f4483326"><img src="https://timyefi.github.io/assets/hero-tall.svg?v=e9006625" width="100%" alt="研究工程笔记 · 把研究能力做成能跑的工程件"></picture></a>
 
 > <sub>研究工程 · AI 工作流 · 本机优先　|　文章在 [写作站](https://timyefi.github.io/)　|　订阅 [RSS](https://timyefi.github.io/feed.xml)　|　随笔在 [blog](https://github.com/timyefi/blog)</sub>
 
 ### 最新文章
 
+- [缓存字节数正在取代单价](https://timyefi.github.io/posts/cache-bytes-over-price.html)　<sub>2026-09-17 · 理念与方法论</sub>
 - [回测框架为什么要分三层](https://timyefi.github.io/posts/three-layer-backtest-framework.html)　<sub>2026-09-16 · 理念与方法论</sub>
 - [检索为什么比重新读一遍便宜](https://timyefi.github.io/posts/retrieval-cheaper-than-reread.html)　<sub>2026-09-13 · 理念与方法论</sub>
-- [把一份 Excel 数据库复刻成一个能跑的东西](https://timyefi.github.io/posts/excel-model-to-runnable-skill.html)　<sub>2026-09-12 · 理念与方法论</sub>
 
 　<sub>[全部文章 →](https://timyefi.github.io/)　·　[关于这个站点](https://timyefi.github.io/about.html)</sub>
 
