@@ -1,12 +1,12 @@
-<a href="https://timyefi.github.io/"><picture><source media="(min-width: 660px)" srcset="https://timyefi.github.io/assets/hero-wide.svg?v=656b8649"><img src="https://timyefi.github.io/assets/hero-tall.svg?v=eddc080c" width="100%" alt="研究工程笔记 · 把研究能力做成能跑的工程件"></picture></a>
+<a href="https://timyefi.github.io/"><picture><source media="(min-width: 660px)" srcset="https://timyefi.github.io/assets/hero-wide.svg?v=cc4184de"><img src="https://timyefi.github.io/assets/hero-tall.svg?v=503024ac" width="100%" alt="研究工程笔记 · 把研究能力做成能跑的工程件"></picture></a>
 
 > <sub>研究工程 · AI 工作流 · 本机优先　|　文章在 [写作站](https://timyefi.github.io/)　|　订阅 [RSS](https://timyefi.github.io/feed.xml)　|　随笔在 [blog](https://github.com/timyefi/blog)</sub>
 
 ### 最新文章
 
+- [Agent 开始自己改代码之后，投研的信任边界在哪里](https://timyefi.github.io/posts/agent-trust-boundary.html)　<sub>2026-09-22 · 理念与方法论</sub>
 - [把 AI 风险分散到 AI 之外](https://timyefi.github.io/posts/ai-risk-beyond-ai.html)　<sub>2026-09-18 · 理念与方法论</sub>
 - [缓存字节数正在取代单价](https://timyefi.github.io/posts/cache-bytes-over-price.html)　<sub>2026-09-17 · 理念与方法论</sub>
-- [回测框架为什么要分三层](https://timyefi.github.io/posts/three-layer-backtest-framework.html)　<sub>2026-09-16 · 理念与方法论</sub>
 
 　<sub>[全部文章 →](https://timyefi.github.io/)　·　[关于这个站点](https://timyefi.github.io/about.html)</sub>
 
