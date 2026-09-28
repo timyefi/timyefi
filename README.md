@@ -1,12 +1,12 @@
-<a href="https://timyefi.github.io/"><picture><source media="(min-width: 660px)" srcset="https://timyefi.github.io/assets/hero-wide.svg?v=e6e76190"><img src="https://timyefi.github.io/assets/hero-tall.svg?v=29354bd5" width="100%" alt="研究工程笔记 · 把研究能力做成能跑的工程件"></picture></a>
+<a href="https://timyefi.github.io/"><picture><source media="(min-width: 660px)" srcset="https://timyefi.github.io/assets/hero-wide.svg?v=137a4e6d"><img src="https://timyefi.github.io/assets/hero-tall.svg?v=a1aa2f4a" width="100%" alt="研究工程笔记 · 把研究能力做成能跑的工程件"></picture></a>
 
 > <sub>研究工程 · AI 工作流 · 本机优先　|　文章在 [写作站](https://timyefi.github.io/)　|　订阅 [RSS](https://timyefi.github.io/feed.xml)　|　随笔在 [blog](https://github.com/timyefi/blog)</sub>
 
 ### 最新文章
 
+- [暴露度不能只看行业标签](https://timyefi.github.io/posts/exposure-beyond-sector-labels.html)　<sub>2026-09-28 · 理念与方法论</sub>
 - [先问抵押品，再问借款人](https://timyefi.github.io/posts/collateral-before-borrower.html)　<sub>2026-09-26 · 理念与方法论</sub>
 - [金融 Agent 的验收标准要写进设计文档](https://timyefi.github.io/posts/agent-acceptance-in-design.html)　<sub>2026-09-24 · 理念与方法论</sub>
-- [低一档的评级，标的就是项目本身](https://timyefi.github.io/posts/project-not-proxy.html)　<sub>2026-09-23 · 理念与方法论</sub>
 
 　<sub>[全部文章 →](https://timyefi.github.io/)　·　[关于这个站点](https://timyefi.github.io/about.html)</sub>
 
